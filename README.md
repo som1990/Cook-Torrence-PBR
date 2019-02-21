@@ -1,4 +1,4 @@
-# CookTorrencePBR
+# Cook Torrence PBR
 Implementation of the Cook Torrence Reflectance Model via a WaveLength Based Physically Based Renderer <br>
 The Paper can be found here - http://inst.cs.berkeley.edu/~cs294-13/fa09/lectures/cookpaper.pdf <br>
 <br>
